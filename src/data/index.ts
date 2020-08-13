@@ -1,26 +1,25 @@
 export default [
     {
-      title: 'Concentre-se apenas no trabalho importante',
+      title: 'Focus on the work that matters',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis. Quisque et elit ut eros ultrices mollis. Donec non ullamcorper sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.',
+        'Dropbox is the world’s first smart workspace. We bring all your team’s content together while letting you use the tools you love. And we help cut through the clutter, surfacing what matters most.',
     },
     {
-      title: 'Diga adeus ao trabalho maçante',
+      title: 'Say goodbye to busywork',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis. Quisque et elit ut eros ultrices mollis. Donec non ullamcorper sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.',
+        'Most “productivity” tools get in your way and constantly disrupt your flow. There’s a more enlightened way to work. Dropbox helps people be organized, stay focused, and get in sync with their teams.',
     },
     {
-      title: 'Armazenamento e compartilhamento de arquivos são só o começo',
+      title: 'File storage and sharing are just the beginning',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis. Quisque et elit ut eros ultrices mollis.',
+        'Bring traditional files, cloud content, Dropbox Paper docs, and web shortcuts together in one place—and work the way that works for you.',
     },
     {
       title: 'Para todos',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      description: 'Personalized suggestions give you files and folders when you need them so you spend less time searching.',
     },
     {
-      title: 'Parte inferior da página',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis.',
+      title: 'Get Dropbox',
+      description:'Learn more about the benefits of Dropbox.',
     },
   ];

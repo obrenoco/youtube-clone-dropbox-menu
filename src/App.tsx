@@ -17,22 +17,22 @@ function App() {
         <Section 
           variant="beige"
           title={data[1].title}
-          description={data[0].description}
+          description={data[1].description}
         />
         <Section 
           variant="blue"
           title={data[2].title}
-          description={data[0].description}
+          description={data[2].description}
         />
         <Section 
           variant="white"
           title={data[3].title}
-          description={data[0].description}
+          description={data[3].description}
         />
         <Section 
           variant="black"
           title={data[4].title}
-          description={data[0].description}
+          description={data[4].description}
         />
 
         <SideMenu>
