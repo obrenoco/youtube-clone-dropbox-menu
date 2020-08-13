@@ -59,8 +59,8 @@
 
 ## :robot: Technologies
 
- * ⚛ **JavaScript** - The best programing language in the entire universe.
- * 💅 **Css** - Yeah, simple as that
+ * ⚛ **React**
+ * 💅 **Typescript**
 
 
 
