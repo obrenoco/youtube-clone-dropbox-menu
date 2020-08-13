@@ -78,6 +78,9 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 ```git clone git@github.com:obrenoco/youtube-clone-dropbox-menu```
 
+
+Then, on your terminal you run
+
 ```yarn start```
 
 
