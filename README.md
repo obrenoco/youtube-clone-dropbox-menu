@@ -38,7 +38,7 @@
 
 
 * [Getting Started](#runner-getting-started)
-#### yarn start
+
 
 * [Found a bug? Missing a specific feature?](#bug-issues)
 
@@ -77,6 +77,8 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 
 ```git clone git@github.com:obrenoco/youtube-clone-dropbox-menu```
+
+```yarn start```
 
 
 
