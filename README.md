@@ -59,8 +59,9 @@
 
 ## :robot: Technologies
 
- * ⚛ **React**
- * 💅 **Typescript**
+- [x] ⚛ React.js
+- [x] ⚛ TypeScript
+- [x] 💅 Styled Components
 
 
 
@@ -81,7 +82,8 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 Then, on your terminal you run
 
-```yarn start```
+1. Run `npm install` or `yarn install`.<br />
+2. Run `yarn start` and access `http://localhost:3000`.<br />
 
 
 
