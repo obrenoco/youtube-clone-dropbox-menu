@@ -14,7 +14,7 @@
   </a>
 </p>
 
-🔥 This is a clone of Dropbox landing page.
+
 
 
 
@@ -50,7 +50,7 @@
 
 # :rocket: Features
 
- * 🍕 This is patience tester. Good luck.
+🔥 This is a clone of Dropbox landing page.
 
 
 
